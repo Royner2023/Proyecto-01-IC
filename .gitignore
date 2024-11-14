@@ -1,0 +1,12 @@
+#Omitir archivos temporales de visul estudio
+*.suo
+*.user
+*.sln.docstates
+*.temporales
+*.log
+.vs
+#omitir archivos de compilación
+bin 
+obj
+
+
